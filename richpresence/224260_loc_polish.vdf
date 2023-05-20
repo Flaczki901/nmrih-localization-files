@@ -1,0 +1,12 @@
+"lang"
+{
+	"Language"	"polish"
+	"Tokens"
+	{
+		"#Status_JoiningServer"	"Dołączanie do serwer'a..."
+		"#Status_MainMenu"	"Menu Główne"
+		"#Status_PlayingObjective"	"Cel Gry - %map%"
+		"#Status_PlayingSurvival"	"Cel Przetrwania - %map%"
+		"#Status_PlayingCustom"	"Cel Różnych - %map%"
+	}
+}
